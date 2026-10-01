@@ -1,7 +1,6 @@
 
 [![Live Site](https://img.shields.io/badge/Site-ta1eei.github.io-238636?style=flat-square&logo=githubpages&logoColor=white)](https://ta1eei.github.io)
 [![Callsign](https://img.shields.io/badge/Amateur_Radio-TA1EEI-0969da?style=flat-square)](https://www.qrz.com/db/TA1EEI)
-[![Zenodo](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23082466-8957e5?style=flat-square)](https://doi.org/10.5281/zenodo.23082466)
 [![License: MIT](https://img.shields.io/badge/License-MIT-gray.svg?style=flat-square)](LICENSE)
 
 Source repository and deployment files for my personal research portal and hardware security portfolio.
